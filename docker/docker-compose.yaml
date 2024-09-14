@@ -1,5 +1,5 @@
-# to create docker compose yml file for sql , mongo and redis kafka zookeeper graphana , prometheus ,
-#H2  refer these properties from env file
+# to create docker compose yml file for sql , mongo and redis kafka zookeeper
+#graphana , prometheus , H2  refer these properties from env file
 
 version: '3.9'
 
